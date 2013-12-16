@@ -1,0 +1,84 @@
+----
+File: fileio-input.2.tcl
+
+real	0m0.398s
+user	0m0.032s
+sys	0m0.004s
+----
+File: fileio-input.3.tcl
+
+real	0m0.031s
+user	0m0.027s
+sys	0m0.003s
+----
+File: fileio-input.4.tcl
+
+real	0m0.032s
+user	0m0.025s
+sys	0m0.006s
+----
+File: fileio-input.5.tcl
+
+real	0m0.150s
+user	0m0.048s
+sys	0m0.006s
+----
+File: fileio-input.tcl
+
+real	0m0.052s
+user	0m0.045s
+sys	0m0.007s
+----
+File: mandelbrot.tcl
+
+real	0m3.134s
+user	0m3.095s
+sys	0m0.006s
+----
+File: fileio-input.py
+
+real	0m0.171s
+user	0m0.029s
+sys	0m0.005s
+----
+File: mandelbrot.py
+
+real	0m2.384s
+user	0m2.324s
+sys	0m0.022s
+----
+File: fileio-input.2.js
+
+real	0m0.542s
+user	0m0.188s
+sys	0m0.035s
+----
+File: fileio-input.js
+
+real	0m0.250s
+user	0m0.223s
+sys	0m0.025s
+----
+File: mandelbrot.js
+
+real	0m0.110s
+user	0m0.099s
+sys	0m0.009s
+----
+File: fileio-input.php
+
+real	0m0.117s
+user	0m0.057s
+sys	0m0.018s
+----
+File: mandelbrot.php
+
+real	0m4.156s
+user	0m2.153s
+sys	0m0.010s
+----
+File: mandelbrot.rb
+
+real	0m4.937s
+user	0m2.875s
+sys	0m0.010s
