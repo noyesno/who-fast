@@ -5,6 +5,16 @@ Which programming language runs faster is always a topic.
 
 Thousands of words have nothing on a real compete - just run it.
 
+### Platform & Version ###
+
+```
+Linux 2.6.32-20130307.60.9.bh6.x86_64 #1 SMP x86_64 x86_64 x86_64 GNU/Linux
+Tcl 8.5.7
+Node.js v0.10.23
+PHP 5.2.17 (cgi-fcgi) (built: Oct  2 2013 09:23:52)
+Python 2.6.6
+ruby 1.9.3p429 (2013-05-15 revision 40747) [x86_64-linux]
+```
 
 ### fileio-input ###
 
